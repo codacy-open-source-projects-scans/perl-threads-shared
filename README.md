@@ -1,7 +1,7 @@
-# perl-threads-shared - develop branch
+# threads-shared
+Perl extension for sharing data structures between threads.
 
-This repository contains the frozen state of the repository.
-Its history is cleared. It is used only for static code
-analysis with Codacy.
+This module is dual-lived in both the core Perl distribution and on CPAN.
 
-Commit Time: 1734571471
+Detailed information regarding this module can be found on [MetaCPAN](https://metacpan.org/pod/threads::shared).
+
